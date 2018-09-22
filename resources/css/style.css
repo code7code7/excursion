@@ -11,3 +11,25 @@
   font-size: 16px;
   text-decoration: underline;
 }
+
+.video{
+  align-items: center;
+}
+
+.guide{
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42px;
+  text-align: center;
+}
+
+.remembers{
+  font-family:verdana;
+  font-size: 21px;
+  font-color: gray;
+}
+
+.thesymbol{
+  text-align: right;
+  color: gray
+}
